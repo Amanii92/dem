@@ -15,8 +15,8 @@ public class PersonService {
 		Person p = new Person();
 		p.setId("1");
 		p.setAge(21);
-		p.setFirstName("Amani");
-		p.setLastName("Ashrakat");
+		p.setFirstName("Amanibadr");
+		p.setLastName("Ashrakatkoko");
 		persons.add(p);
 
 		p = new Person();
